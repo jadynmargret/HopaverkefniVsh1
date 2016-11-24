@@ -1,0 +1,61 @@
+body {
+background: #3e4145; 
+
+}
+
+.midja {
+  background: #2e3136;
+  background: -webkit-linear-gradient(#27292e, #3c3d40);
+  background:    -moz-linear-gradient(#27292e, #3c3d40);
+  background:         linear-gradient(#27292e, #3c3d40);
+
+}
+
+
+.midjutexti {
+  max-width: 60em;
+  margin: 0 auto;
+  color: #e7e7e7;
+}
+
+
+}
+
+div.container4 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  max-width: 60em;
+  margin: 0 auto;
+  text-align: center;
+
+ }
+
+}
+header h1 a{
+    border-top: 4px solid #FFF;
+    text-decoration :none;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 245px;
+    
+}
+
+/*
+  ========================================
+  Clearfix
+  ========================================
+*/
+.group:before,
+.group:after {
+  content: "";
+  display: table;
+}
+.group:after {
+  clear: both;
+}
+.group {
+  clear: both;
+  *zoom: 1;
+}
+
+   
